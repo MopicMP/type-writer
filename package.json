@@ -1,0 +1,25 @@
+{
+  "name": "type-writer",
+  "version": "1.0.0",
+  "description": "Typewriter text animation effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "tool",
+    "type",
+    "utility",
+    "writer"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raccoonette/type-writer.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
